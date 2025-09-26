@@ -26,3 +26,7 @@ button {
     cursor: pointer;
     font-size: medium;
 }
+
+.small-text {
+    font-size: small;
+}
