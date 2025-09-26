@@ -13,19 +13,18 @@ body {
     text-align: center;
 }
 
-.headerbutton {
-    background-color: #15a31a;
-    color: white;
-    padding: 5px 10px;
-    cursor: pointer;
-}
-button { 
+button {
     background-color: #011aff;
     color: white;
     padding: 5px 10px;
     cursor: pointer;
     font-size: medium;
 }
+
+.headerbutton {
+    background-color: #15a31a;
+}
+
 
 .small-text {
     font-size: small;
