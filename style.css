@@ -1,7 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     font-size: medium;
-    background-color: rgb(255, 0, 0);
 }
  
 .center-text {
@@ -17,7 +16,7 @@ body {
 
 button {
     background-color: #011aff;
-    color: white;
+    color: rgb(255, 0, 0);
     padding: 5px 10px;
     cursor: pointer;
     font-size: medium;
