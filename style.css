@@ -39,3 +39,13 @@ button {
     background-color: #f4f4f4;
     padding: 10px;
 }
+
+.bloglink{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #011aff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
