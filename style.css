@@ -14,7 +14,7 @@ body {
     border-radius: 5px;
 }
 
-button {
+a {
     background-color: #011aff;
     color: white;
     padding: 5px 10px;
@@ -25,7 +25,12 @@ button {
 }
 
 .headerbutton {
+    display: inline-block;
+    padding: 5px 10px;
     background-color: #15a31a;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
 }
 
 
